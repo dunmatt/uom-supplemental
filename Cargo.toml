@@ -1,0 +1,10 @@
+[package]
+name = "uom-supplemental"
+version = "0.1.0"
+authors = ["M@ Dunlap <mattdunlap+uom@gmail.com>"]
+edition = "2018"
+readme = "README.md"
+repository = "https://github.com/dunmatt/uom-supplemental"
+
+[dependencies]
+uom = "0.22.1"
